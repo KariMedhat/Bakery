@@ -1,0 +1,197 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #686868;
+}
+.home
+{
+    background-image: url(../images/background.jpg);
+    height: 100vh;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+.home-logo
+{
+    width: 190px;
+}
+.navbar-collapse
+{
+    flex-grow: 0;
+}
+.nav-link
+{
+    color: white!important;
+    font-size: 18px;
+}
+.home-content
+{   
+    position: absolute;
+    top: 30%;
+    left: 28%;
+    text-align: center;
+    color: white;
+}
+.home-content p
+{
+    font-size: 22px;
+    padding: 10px 0px;
+    font-family: 'Alegreya', serif;
+}
+.home-content h1
+{
+    font-size: 76px;
+    font-family: 'Alegreya', serif;
+}
+.btn-primary
+{
+    background-color: #8E7754;
+    border: 2px solid transparent;
+    padding: 15px 28px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 700;
+
+}
+.btn2
+{
+    background-color: transparent;
+    border: white 1px solid;
+}
+.btn-primary:hover
+{
+    background-color: white;
+    color: #333333;
+    border: unset;
+}
+.about
+{   
+    padding: 100px 0px;
+    
+}
+.about-content
+{
+    
+    padding-top: 60px;
+}
+.about-content h3{
+    font-size: 32px;
+    color: #303030;
+    font-family: 'Alegreya', serif;
+    padding-bottom: 12px;
+}
+.about-content p{
+    font-size: 17px;
+    line-height: 32px;
+    font-family: "Alegreya Sans";
+}
+.img-content
+{
+    width: 550px;
+    
+}
+.icon-list li
+{
+    list-style-type: none;
+    padding: 10px 0px;
+}
+.icon-list li i
+{
+    margin-right: 10px;
+    color: #8e7754;
+    border: 1px solid rgba(0,0,0,.15);
+    width: 44px;
+    height: 44px;
+    border-radius: 100%;
+    line-height: 44px;
+    font-size: 20px;
+    top: 6px;
+}
+.icon-list span
+{
+    font-family: "Alegreya Sans";
+    font-size: 17px;
+}
+.baking
+{
+    margin: 100px 0px;
+}
+.baking h5
+{
+    font-size: 22px;
+    margin: 22px 0px;
+    color: #303030;
+    font-family: "Alegreya";
+}
+.baking p
+{
+    font-family: "Alegreya Sans";;
+}
+.contact-icons i
+{
+    background-color: #8e7754;
+    color: #fff!important;
+}
+.wallpaperEnd
+{
+    background-color: #403D38;
+}
+.websiteEnd
+{
+    padding: 110x 0px;
+    
+}
+.end
+{
+    list-style-type: none;
+    padding: 70px 0px;
+    font-family: "Alegreya Sans";
+    font-size: 14px;
+    color: #969696;
+}
+.end h5
+{
+    font-family: 'Alegreya';
+    font-size: 18px;
+    color: #ffffff;
+    padding-bottom: 20px;
+}
+.contact-map
+{
+    position: relative;
+    opacity: 0.11;
+    bottom: 190px;
+    
+}
+.finish
+{
+    background-color: #353330;
+    padding: 50px 0px;
+    font-size: 15px;
+    line-height: 28px;
+}
+
+.finish .finish-icons i
+{
+    margin-right: 5px;
+    color: #8c8a86;
+    background-color: #484540;
+    border: 1px solid rgba(0,0,0,.15);
+    width: 44px;
+    height: 44px;
+    border-radius: 100%;
+    line-height: 44px;
+    font-size: 20px;
+    top: 6px;
+}
+.finish p
+{
+    font-size: 14px;
+    padding-top: 5px;
+    
+}
